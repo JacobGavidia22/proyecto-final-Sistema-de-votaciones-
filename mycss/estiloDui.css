@@ -1,0 +1,46 @@
+form{
+	margin-top: 0px;
+	margin-left: 0px;
+	display: inline-block;
+}
+
+.inputdui{
+	width: 250px;
+	height: 40px;
+	font-size: 22px;
+}
+
+table{
+	text-align: center;
+	font-size: 20px;
+	margin: auto;
+	margin-top: 50px;
+	margin-bottom: 14px;
+}
+
+img.buscador{
+	margin-top: 8px;
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+}
+
+img.buscador:hover{
+	transform: rotate(0deg) scale(0.9,0.9);
+}
+
+.Yo4{
+	margin-top: 35px;
+	text-align: center;
+	font-size: 12px;
+}
+input.b{
+	width: 40px;
+	height: 40px;
+	margin-bottom: 10px;
+}
+
+input.borrar{
+	width: 84px;
+	height: 40px;
+}
